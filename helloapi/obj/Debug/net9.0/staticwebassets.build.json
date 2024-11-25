@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "bhY1eY6mFxKxf5PWtk/tlKDnem0NL5IGb0vy4hxHiu4=",
+  "Source": "helloapi",
+  "BasePath": "_content/helloapi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
